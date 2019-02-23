@@ -1,0 +1,26 @@
+body 
+{
+    background-image: url("https://i.ytimg.com/vi/88Nh8irxfA8/maxresdefault.jpg");
+    background-color: #cccccc; 
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+p {
+    color: white;
+    text-align: center;
+
+}
+.content {
+    position:relative;
+    top:50%;
+    /* left:40%; */
+}
+
+#champPic {
+    position:fixed;
+    BOTTOM:0;
+    RIGHT:0;
+}
